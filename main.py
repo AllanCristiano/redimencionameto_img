@@ -1,3 +1,4 @@
+# install pyqt5 == pip install PyQt5
 # converter ui para python
 # pyuic5 name.ui -o name.py
 import sys
